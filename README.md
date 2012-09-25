@@ -1,3 +1,3 @@
 Lagoon Security RESTful API
 
-"Learn API":LagoonSecurity-API/wiki
+Learn API at https://github.com/Lagoon/LagoonSecurity-API/wiki
