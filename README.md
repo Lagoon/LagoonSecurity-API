@@ -9,4 +9,4 @@ It’s very simple to learn, as only a few routes are necessary to obtain  data 
 
 Learn API at https://github.com/Lagoon/LagoonSecurity-API/wiki and start now!
 
-Know more about Lagoon® Security on the http://lagoon.pt website.
+Know more about Lagoon® Security on the www.lagoonsecurity.pt website.
